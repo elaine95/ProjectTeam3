@@ -1,10 +1,10 @@
-# Canadian Median Employment Income For New Graduates Analysis (2010-2015)
+# Canadian Median Employment Income Analysis For New Graduates  (2010-2015)
 
 ### Project Description
 
 > Have you ever wondered Canadian’s employment income for new graduates? And what kind of characteristics driven to those different levels of income? In this project, we aim to analyze a dataset which contains Canadian’s median employment income of postsecondary graduates two years after graduation by degree, field of study, gender, age group and status from 2010-2015, the goal is to answer to following questions:
 
-* What are the top 3 fields of study that yielded the highest median employment income 2 years after graduation
+* What are the top 3 fields of study that yielded the highest median employment income 2 years after graduation?
 * Does age and gender affect the median income in the same field of study?
 * Which type of accreditation yields the highest new graduate income?
 * Which province has the highest median income and which has the lowest? What field of study has the highest median income in each Province?
